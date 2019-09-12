@@ -1,2 +1,4 @@
 # Seam_Carving-
-Seam Carving using Matlab
+Seam Carving 
+
+Software : Matlab
